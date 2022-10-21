@@ -1,0 +1,10 @@
+[
+    {
+        "package": "rconfig",
+        "url": "https://github.com/analythium/rconfig"
+    },
+    {
+        "package": "deps",
+        "url": "https://github.com/analythium/deps"
+    }
+]
