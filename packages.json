@@ -6,5 +6,9 @@
     {
         "package": "deps",
         "url": "https://github.com/analythium/deps"
+    },
+    {
+        "package": "tryr",
+        "url": "https://github.com/analythium/tryr"
     }
 ]
